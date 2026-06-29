@@ -87,7 +87,7 @@ SELECT *
 FROM sales
 WHERE sale_date = '2022-11-05';
 ```
-<img width="1582" height="901" alt="Screenshot 2026-06-29 170419" src="https://github.com/user-attachments/assets/92aac153-065c-4fcc-a5ee-efc5dfe3a360" />
+<img width="1567" height="738" alt="image" src="https://github.com/user-attachments/assets/a8a509f6-0136-4fd0-8bc8-339876027423" />
 
 ---
 
@@ -113,6 +113,7 @@ COUNT(*) AS total_orders
 FROM sales
 GROUP BY category;
 ```
+<img width="1350" height="562" alt="image" src="https://github.com/user-attachments/assets/506081ed-5745-46ce-87b0-2820766dcb95" />
 
 ---
 
@@ -158,6 +159,7 @@ Uses:
 - AVG()
 
 ---
+<img width="1385" height="739" alt="image" src="https://github.com/user-attachments/assets/16726771-78a1-48bf-86e3-639edb7e493b" />
 
 ### 8. Top 5 customers based on total sales
 
@@ -182,6 +184,8 @@ COUNT(DISTINCT customer_id)
 FROM sales
 GROUP BY category;
 ```
+<img width="1424" height="626" alt="image" src="https://github.com/user-attachments/assets/362de586-2e0f-48a0-b701-00db3aba11cc" />
+
 
 ---
 
@@ -226,6 +230,7 @@ Implemented using:
 ![Sales by Shift](screenshots/q10_sales_by_shift.png)
 
 ---
+<img width="1582" height="901" alt="Screenshot 2026-06-29 170419" src="https://github.com/user-attachments/assets/92aac153-065c-4fcc-a5ee-efc5dfe3a360" />
 
 # 📈 Key Insights
 
