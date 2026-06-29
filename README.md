@@ -87,6 +87,7 @@ SELECT *
 FROM sales
 WHERE sale_date = '2022-11-05';
 ```
+<img width="1582" height="901" alt="Screenshot 2026-06-29 170419" src="https://github.com/user-attachments/assets/92aac153-065c-4fcc-a5ee-efc5dfe3a360" />
 
 ---
 
